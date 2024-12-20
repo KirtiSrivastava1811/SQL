@@ -20,6 +20,6 @@ CREATE TABLE student(
  (id,name,salary)
  VALUES
  (1,"KIRTI",200000),
- (2,"KUSHAGRA",210000),
-(3,"SHWET",400000);
+ (2,"NITISH",210000),
+(3,"PUCHU",400000);
 SELECT * FROM employee
